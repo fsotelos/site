@@ -245,6 +245,13 @@ h6 {
   background-size: cover;
 }
 
+@media (max-width: 767px) {
+  #hero {
+    background-position: center center; 
+    height: auto; 
+  }
+}
+
 #hero:before {
   content: "";
   background: rgba(5, 13, 24, 0.3);
