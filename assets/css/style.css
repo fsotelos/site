@@ -245,12 +245,7 @@ h6 {
   background-size: cover;
 }
 
-@media (max-width: 767px) {
-  #hero {
-    background-position: center center; 
-    height: auto; 
-  }
-}
+
 
 #hero:before {
   content: "";
@@ -267,6 +262,16 @@ h6 {
   position: relative;
   z-index: 2;
   min-width: 300px;
+}
+
+@media (max-width: 800px) {
+  #hero {
+    background-position: center center; 
+    height: auto; 
+  }
+  #hero .hero-container {
+    height: auto;
+  }
 }
 
 #hero h1 {
