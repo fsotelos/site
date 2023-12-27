@@ -1,7 +1,3 @@
 [submodule "path_to_submodule"] 
   path = react/reactprod 
   url = https://github.com/fsotelos/reactprod/
-
-[submodule "vueprod"]
-	path = vue/vueprod
-	url = https://github.com/fsotelos/vueprod/
