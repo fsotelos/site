@@ -4,3 +4,6 @@
 [submodule "vue/vueprod"]
 	path = vue/vueprod
 	url = https://github.com/fsotelos/vueprod/
+[submodule "angular/angularprod"]
+  path = angular/angularprod
+  url = https://github.com/fsotelos/angularprod/
