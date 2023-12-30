@@ -4,3 +4,7 @@
 [submodule "vue/vueprod"]
 	path = vue/vueprod
 	url = https://github.com/fsotelos/vueprod/
+[submodule "angularprod"]
+	path = angularprod
+	url = https://github.com/fsotelos/angularprod.git
+	branch = main
