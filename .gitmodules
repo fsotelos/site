@@ -3,4 +3,3 @@
   url = https://github.com/fsotelos/reactprod/
 [submodule "vue/vueprod"]
 	path = vue/vueprod
-	url = https://github.com/fsotelos/vueprod/
